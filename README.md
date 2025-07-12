@@ -1,4 +1,4 @@
-# [DEVOPS-STACK-ADAPT]  
+# DEVOPS-STACK-ADAPT  
 
 **Projeto educativo de DevOps** que adapta um stack originalmente em Java (NGINX + Apache Tomcat + RabbitMQ + Memcached + MySQL) para Python/Django, mantendo os mesmos conceitos de integração de serviços.  
 
@@ -22,7 +22,7 @@
 ├── java-app/                 # Código-fonte original (opcional)  
 ├── diagrams/                 # Diagramas do projeto original e adaptado  
 └── infra/                    # Configurações de NGINX, MySQL, etc.  
-
+```
 
 ## Diagrama do Stack (JAVA)
 ![alt text](image.png)
